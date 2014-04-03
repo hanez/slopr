@@ -7,8 +7,8 @@ USB phone charger on Linux
 Description
 -----------
 
-slopr is using libusb for getting information about the current power 
-consumption of a USB device. slopr will be configured by the following 
+**slopr** is using libusb for getting information about the current power 
+consumption of a USB device. **slopr** will be configured by the following 
 parameters at start time.
 
 	-c 	--command	/the/command/to/execute/on/event
